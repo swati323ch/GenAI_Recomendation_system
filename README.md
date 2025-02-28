@@ -1,9 +1,4 @@
 # GenAI Recomendation Fashion System 
-Here is a refined **README** file without the code snippets:  
-
----
-
-# **Fashion Style Recommender System**  
 
 ## **Overview**  
 The **Fashion Style Recommender System** is a personalized fashion recommendation engine that leverages **vector embeddings**, **semantic search**, and **content-based filtering** to enhance user experience. It integrates a **conversational agent** to dynamically generate user queries and provide **hybrid recommendations** based on product descriptions, images, price, and rating.  
