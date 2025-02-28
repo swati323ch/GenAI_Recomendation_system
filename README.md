@@ -1,4 +1,4 @@
-# OutStyle-Task-Submission
+# GenAI Recomendation Fashion System 
 Here is a refined **README** file without the code snippets:  
 
 ---
