@@ -48,10 +48,6 @@ The system follows a structured pipeline consisting of:
 - **NLP & CNN Models** – For generating text and image embeddings.  
 - **Cosine Similarity** – Used for performing semantic search.  
 
-## **Contributing**  
-Contributions are welcome! To contribute:  
-- Fork the repository and create a new feature branch.  
-- Implement your changes and submit a pull request for review.  
 ## Results
 Got the vector accuracy of 90 percent
 ![image](https://github.com/user-attachments/assets/685c9928-6c65-44e1-97bd-b2f262dacd44)
