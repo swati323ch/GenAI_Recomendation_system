@@ -21,14 +21,7 @@ The system follows a structured pipeline consisting of:
 - **Processing User Query** – Capturing user preferences and converting the query into an appropriate format while generating query embeddings.  
 - **Performing Semantic Search** – Matching user query embeddings with product description and image embeddings using cosine similarity, then combining results into a hybrid search model.  
 - **Applying Content-Based Filtering** – Filtering recommendations based on price and rating extracted from the user query.  
-- **Combining and Displaying Results** – Merging results from semantic search and content-based filtering, then displaying personalized fashion recommendations through the UI.  
-
-## **Installation & Setup**  
-- Clone the repository and install the required dependencies.  
-- Set up the **MyScale (ClickHouse) database** for storing product embeddings.  
-- Run the **conversational agent** to gather user inputs.  
-- Process the user query and perform **semantic search** combined with **content-based filtering**.  
-- Display recommendations through the **UI**.  
+- **Combining and Displaying Results** – Merging results from semantic search and content-based filtering, then displaying personalized fashion recommendations through the UI.    
 
 ## **Usage**  
 1. Users interact with the chatbot to specify fashion preferences.  
